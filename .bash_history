@@ -25,3 +25,12 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/jazfeijoo/ExampleRepos.github.io.git
 git status
+git add .
+git commit -m "first commit"
+git push
+git push -u origin main
+git push -u origin master
+git push -u origin main
+git push -u origin master
+it push -u origin master
+git push -u origin master
